@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=180&text=Full%20Stack,%20Developer!&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 욕심있는 개발자입니다 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 하고싶은게 많은 웹 개발자입니다 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요, 저는 프론트엔드부터 백엔드까지, 다양한 기술 스택을 사용해 유연하고 확장 가능한 웹 애플리케이션을 만들 수 있습니다 하루하루 새로운 기술을 배우고 도전하는 것을 즐기고 팀과의 협업을 통해 문제를 해결하며 하루하루 더 발전해 나아가고 있습니다 저는 동적 인터랙션웹과 백엔드 언어 그리고 게임개발에 관심을 갖고 있는 욕심있는 개발자입니다! </div> 
     </div>
     <div style="text-align: left;">
