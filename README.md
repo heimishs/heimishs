@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 야망있는 웹개발자입니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요, 저는 프론트엔드부터 백엔드까지, 더 나은 서비스를 제공할 수 있도록 노력하는 과정 자체에 즐거움을 느끼는 웹 개발자입니다 저는 동적 인터랙션웹과 백엔드 언어 그리고 게임개발에 관심을 갖고 있는 야망있는 개발자입니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요, 저는 프론트엔드부터 백엔드까지, 더 나은 서비스를 제공할 수 있도록 노력하는 과정 자체에 즐거움을 느끼는 웹 개발자입니다 저는 동적 인터랙션웹과 새로운기술에 관심있는 야망있는 개발자입니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
