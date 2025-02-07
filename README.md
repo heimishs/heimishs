@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=180&text=Full%20Stack,%20Developer!&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 내가 만든 서비스를 상호작용하는 이용자를 보며 즐거움과 보람을 느끼는 백엔드 개발자입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 나의 서비스를 상호작용하는 이용자를 보며 보람을 느끼는 백엔드 개발자입니다 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요, 저는 더 나은 서비스를 제공할 수 있도록 새로운 기술을 접해보고 사용하는 과정 자체에 즐거움을 느끼는 웹 개발자입니다 이야기를 나누는 것을 좋아하고 IT 카테고리 대화에 관심과 흥미가 많습니다 </div> 
     </div>
     <div style="text-align: left;">
