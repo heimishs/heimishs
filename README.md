@@ -1,42 +1,85 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=180&text=Full%20Stack,%20Developer!&animation=&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 나의 서비스를 상호작용하는 이용자를 보며 보람을 느끼는 프론트엔드 개발자입니다 </h3>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요, 저는 더 나은 서비스를 제공할 수 있도록 새로운 기술을 접해보고 사용하는 과정 자체에 즐거움을 느끼며 이야기를 나누는 것을 좋아하고 IT 카테고리 대화에 관심과 흥미가 많습니다 </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<!--           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> -->
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<!--           <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white"> -->
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-<!--           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> -->
-<!--           <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> -->
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://frontdebug.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://frontdebug.tistory.com/"> </a>
-         <a href=mailto:heimishs@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:heimishs@naver.com"> </a>
-         <a href=https://www.notion.so/Hi-I-m-Gyubin-1733450f936080bab625c8924f186192> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Hi-I-m-Gyubin-1733450f936080bab625c8924f186192"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheimishs%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=heimishs&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimishs&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+<!-- 프로필 헤더 -->
+<p align="center">
+  <!-- Capsule-render: https://github.com/moozzx/capsule-render#readme -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Full%20Stack%20Developer!&fontAlignY=35&fontSize=60&color=gradient&fontColor=ffffff&animation=twinkling" alt="hero banner"/>
+</p>
+
+<!-- About -->
+<h3 align="center">나의 서비스를 ‘직접’ 상호작용하는 이용자를 보며 보람을 느끼는 프론트엔드 개발자입니다 👋</h3>
+
+<div align="center">
+  새로운 기술을 배우고 공유하는 과정을 즐기며, IT·개발 토픽으로 대화하는 것을 좋아합니다.
+</div>
+
+---
+
+## 🛠 Tech Stacks
+<details>
+  <summary><b>펼쳐보기 / 접기</b></summary><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon&nbsp;AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+</details>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heimishs&theme=algolia&no-frame=true&margin-w=5" alt="trophy wall"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heimishs&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heimishs&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📰 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- 자동 액션이 최신 글 5개를 여기 삽입 -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💼 Featured Projects
+
+| Project | Tech | Brief |
+|---------|------|-------|
+| **SecondWear** | Next.js · Map API | 중고 의류 수거함 위치 정보를 제공하는 O2O 서비스 |
+| **DID Signage Editor** | React · Interact.js | 드래그·타임라인 기반 디지털 사이니지 콘텐츠 편집기 |
+| **IoT Control Platform** | FastAPI · WebSocket | 산업용 Linux PC + 스마트 플러그 제어 대시보드 |
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="https://frontdebug.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="mailto:heimishs@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.notion.so/Hi-I-m-Gyubin-1733450f936080bab625c8924f186192"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/heimishs&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+</p>
+
+<!-- contribution snake -->
+<p align="center">
+  <img src="https://github.com/heimishs/heimishs/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
