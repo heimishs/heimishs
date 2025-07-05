@@ -49,12 +49,6 @@
 
 ---
 
-## 📰 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- 자동 액션이 최신 글 5개를 여기 삽입 -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💼 Featured Projects
 
@@ -73,13 +67,4 @@
   <a href="https://www.notion.so/Hi-I-m-Gyubin-1733450f936080bab625c8924f186192"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/heimishs&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-</p>
-
-<!-- contribution snake -->
-<p align="center">
-  <img src="https://github.com/heimishs/heimishs/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
