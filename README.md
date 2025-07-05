@@ -54,9 +54,9 @@
 
 | Project | Tech | Brief |
 |---------|------|-------|
-| **SecondWear** | Next.js · Map API | 중고 의류 수거함 위치 정보를 제공하는 O2O 서비스 |
-| **DID Signage Editor** | React · Interact.js | 드래그·타임라인 기반 디지털 사이니지 콘텐츠 편집기 |
-| **IoT Control Platform** | FastAPI · WebSocket | 산업용 Linux PC + 스마트 플러그 제어 대시보드 |
+| **heonwear** | Nest.js Next.js · Map API | 헌옷 수거함 위치 정보를 제공하는 O2O 서비스 |
+| **Today Meal** | Node.js EJS · Youtube API | 검색기반 유튜브 레시피 정보제공 서비스 |
+| **Team Flow** | Node.js React · WebSocket | Todo 칸반보드 기반 IT 협업 서비스 |
 
 ---
 
