@@ -5,7 +5,7 @@
 </p>
 
 <!-- About -->
-<h3 align="center">나의 서비스를 ‘직접’ 상호작용하는 이용자를 보며 보람을 느끼는 프론트엔드 개발자입니다. 👋</h3>
+<h3 align="center">나의 서비스를 ‘직접’ 상호작용하는 이용자를 보며 보람을 느끼는 풀스택 개발자입니다. 👋</h3>
 
 <div align="center">
   새로운 기술을 배우고 공유하는 과정을 즐기며, IT·개발 토픽으로 대화하는 것을 좋아합니다.
@@ -57,7 +57,12 @@
 
 ## 💼 Featured Projects
 
-| Project | Tech | Brief |
+| Private Development Project | Tech | Brief |
+|---------|------|-------|
+| **Auction Service** | Nest.js React.js | 레거시 PHP 서비스를 Nest.js + React 기반으로 마이그레이션  |
+| **Logistics Management** | Nest.js React.js | 레거시 PHP 서비스를 Nest.js + React 기반으로 마이그레이션 |
+
+| Sesac Project | Tech | Brief |
 |---------|------|-------|
 | **heonwear** | Nest.js Next.js · Map API | 헌옷 수거함 위치 정보를 제공하는 O2O 서비스 |
 | **Today Meal** | Node.js EJS · Youtube API | 검색기반 유튜브 레시피 정보제공 서비스 |
